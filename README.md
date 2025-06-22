@@ -1,5 +1,9 @@
 # Quantitative Revenue Modeling and Causal Inference from Marketing Data
 
+If GitHub cannot render the notebook, please use https://nbviewer.org/github/Lok-Tung-Li/Quantitative-Revenue-Modeling-and-Causal-Inference/blob/main/Bayesian.ipynb
+
+============================================
+
 This project presents a comprehensive quantitative analysis of historical marketing and sales data to **forecast revenue** and **evaluate the causal impact of various marketing channels and competitor activity**. Utilizing a **multi-methodological approach**, the study progresses from traditional statistical modeling to advanced Bayesian techniques.
 
 The core objectives include:
